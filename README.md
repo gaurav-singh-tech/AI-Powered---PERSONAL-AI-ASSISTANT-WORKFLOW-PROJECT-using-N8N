@@ -184,9 +184,9 @@ AI Automation Engineer
 GitHub: [@gaurav-singh-tech](https://github.com/gaurav-singh-tech)
 
 **Contact:**  
-📧 Email: *your-email@example.com*  
-🌐 Portfolio: *your-portfolio-link*  
-💼 LinkedIn: *your-linkedin-link*  
+📧 Email: gauravbisht2803@gmail.com 
+🌐 Portfolio: https://gaurav-singh-tech.github.io/portfolio/#about  
+💼 LinkedIn: https://www.linkedin.com/in/contact-gauravsingh/ 
 
 ---
 
