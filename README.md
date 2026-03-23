@@ -18,10 +18,10 @@ Whether it’s scheduling meetings, searching the web, managing Gmail, or tracki
 ---
 
 ## 🖼 Workflow Preview
+<img width="1703" height="709" alt="Workflow" src="https://github.com/user-attachments/assets/0dce9c20-7bb4-4209-84e6-fd5aa9c1918b" />
 
-![image2](image2)
 
-![image1](image1)
+<img width="1733" height="674" alt="Workflow(1)" src="https://github.com/user-attachments/assets/f126bb46-0499-4b9b-9ea7-af7ea920036e" />
 
 ---
 
