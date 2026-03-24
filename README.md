@@ -26,6 +26,9 @@ Think of it as your *automated executive assistant* powered by LLMs + tool chain
 ## 🖼 Visual Workflow Preview
 
 
+<img width="1024" height="1024" alt="ChatGPT Image Mar 24, 2026, 08_47_22 PM" src="https://github.com/user-attachments/assets/ecb949cc-f761-4865-9ff7-dfdcef782bce" />
+
+
 <img width="1703" height="709" alt="Workflow" src="https://github.com/user-attachments/assets/96c72ad0-7808-4c3e-aa17-bcc3fed422bf" />
 
 
